@@ -15,6 +15,7 @@
  */
 package com.example.xyzreader.ui;
 
+
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Rect;
@@ -22,6 +23,7 @@ import android.graphics.drawable.Drawable;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
+
 
 public class DividerItemDecoration extends RecyclerView.ItemDecoration {
 
